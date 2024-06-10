@@ -1,2 +1,2 @@
 # Simple-pipeline
-To verify a task is working
+To verify if the docker agent configuration is working as expected
